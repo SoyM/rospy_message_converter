@@ -59,5 +59,5 @@ License
 Project is released under the BSD license.
 
 .. _rospy: http://www.ros.org/wiki/rospy
-.. |Build Status| image:: https://secure.travis-ci.org/baalexander/rospy_message_converter.png
-   :target: http://travis-ci.org/baalexander/rospy_message_converter
+.. |Build Status| image:: https://secure.travis-ci.org/SoyM/rospy_message_converter.png
+   :target: http://travis-ci.org/SoyM/rospy_message_converter
